@@ -1,0 +1,37 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos de build do Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Arquivos de build do IntelliJ
+out/
+target/
+.gradle/
+build/
+.gradle/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos de configuração
+.DS_Store
+.settings/
+*.log
+*.cache
+*.project
+*.classpath
+
+# Arquivos gerados pelo Maven
+log/
+target/
